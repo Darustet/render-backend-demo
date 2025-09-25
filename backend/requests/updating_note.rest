@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/68d38a0fa97d6725ffe68fe6
+Content-Type: application/json
+
+{
+  "content": "If only treasure could staunch the flow of otherwordly corruption...",
+  "important": false
+}
